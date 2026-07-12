@@ -5,35 +5,31 @@ A cybersecurity project demonstrating network reconnaissance and port scanning u
 ## Objective
 The objective of this project is to perform network reconnaissance using Nmap and identify open ports and running services on a target system. The project also demonstrates basic security assessment techniques.
 
-## Tools Used
-- Nmap
-- Kali Linux / Windows
-- Command Prompt / Terminal
+## Scan Information
 
-## Features
-- Host discovery
-- Port scanning
-- Service version detection
-- Basic network reconnaissance
-- Security observations
+**Tool Used:** Zenmap (Nmap GUI)
 
-## Commands Used
+**Target:**
+www.bing.com
+
+**Command Used**
+
 ```bash
-nmap -sV <target-ip>
-nmap -A <target-ip>
-nmap -Pn <target-ip>
-nmap -p- <target-ip>
+nmap -T4 -A -v www.bing.com
 ```
+
 
 ## Screenshots
 Screenshots of the scanning process are available in the **screenshots** folder.
 
 ## Project Outcome
-- Identified open ports
-- Detected running services
-- Performed basic network reconnaissance
-- Gained hands-on experience with Nmap
 
+- Successfully scanned the target using Zenmap.
+- Identified active services and open ports.
+- Collected host and topology information.
+- Performed basic network reconnaissance.
+- Improved understanding of Nmap scanning techniques.
+  
 ## Disclaimer
 This project was performed only in a controlled environment for educational and ethical learning purposes.
 
