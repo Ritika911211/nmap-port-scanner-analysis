@@ -10,7 +10,7 @@ The objective of this project is to perform network reconnaissance using Nmap an
 **Tool Used:** Zenmap (Nmap GUI)
 
 **Target:**
-www.bing.com
+Publicly accessible website (used for educational demonstration)
 
 **Command Used**
 
