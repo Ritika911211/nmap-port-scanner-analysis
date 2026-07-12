@@ -1,0 +1,24 @@
+Project: Nmap Port Scanner Analysis
+
+Tool Used:
+- Zenmap (GUI for Nmap)
+
+Target:
+www.bing.com
+
+Command Executed:
+nmap -T4 -A -v www.bing.com
+
+Command Explanation:
+
+-T4
+Uses an aggressive timing template to speed up the scan.
+
+-A
+Enables OS detection, version detection, script scanning, and traceroute.
+
+-v
+Displays detailed (verbose) scan output.
+
+Purpose:
+To perform a comprehensive network scan and gather information about the target host, open ports, running services, and network topology.
