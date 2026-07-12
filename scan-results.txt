@@ -1,0 +1,20 @@
+Scan Results
+
+Target:
+www.bing.com
+
+Tool:
+Zenmap (Nmap)
+
+Observations:
+
+• The target host was reachable.
+• Open ports were successfully identified.
+• Service information was displayed.
+• Network topology was generated.
+• Host details were collected.
+• The scan completed successfully without errors.
+
+Conclusion:
+
+This project demonstrates how Nmap (Zenmap) can be used for basic network reconnaissance, service enumeration, and port analysis in an educational environment.
