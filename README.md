@@ -36,3 +36,14 @@ Screenshots of the scanning process are available in the **screenshots** folder.
 
 ## Disclaimer
 This project was performed only in a controlled environment for educational and ethical learning purposes.
+
+## Project Screenshots
+
+### Nmap Output
+![Nmap Output](screenshots/Nmap%20Output.png)
+
+### Ports
+![Ports](screenshots/Ports.png)
+
+### Network Topology
+![Topology](screenshots/Topology.png)
